@@ -1,0 +1,12 @@
+<style>
+    h1,h2,h3,h4 {
+    color: cadetblue;
+    font-family: cursive;
+    border-style:solid ;
+    border-width: 10px;
+    margin-bottom: 40px;
+    width: 50%;
+    padding: 20px;
+    border-color: darkgray;
+    background-color: beige;
+    }
